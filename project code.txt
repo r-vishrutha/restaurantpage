@@ -1,0 +1,248 @@
+<html>
+    <head>
+        <title>Food Landing page</title>
+        <link rel="stylesheet" href="n.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    </head> <link rel="stylesheet" type="text/css" href ="n.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+   
+    <body>
+        <div class="home">>
+        <div class="top">
+            <div class="logo"></div>
+            <div class="nav">
+                <li>Home</li>
+                <li>Special menu</li>
+                <li>Foods</li>
+                <li>Order</li>
+            </div>
+            <div class="addcart_loginbutton">
+                <i class="fa-solid fa-cart-plus"></i>
+                <div class="login">
+                    LOGIN
+                </div>
+            </div>
+        </div>
+
+        <div class="heading">
+            <div class="SocialMedia">
+                <div class="line1"></div>
+                <i class="fa-brands fa-instagram"></i>
+                <i class="fa-brands fa-facebook-f"></i>
+                <i class="fa-brands fa-twitter"></i>
+                <i class="fa-brands fa-linkedin-in"></i>
+                <div class="line2"></div>
+            </div>
+            <div class="content">
+                <p>ONE STOP</p>
+                <h2>Delicious</h2>
+                <p class="foodplace">
+                    Sri Place
+                </p>
+                <p>Best Quality and Tasty Food
+                </p>
+
+                <button>ORDER NOW</button>
+                
+            </div>
+        </div>
+        </div>
+        
+    
+    
+    </div>
+       
+        <div id="menu">
+            <h1 id="section">Menu</h1>
+            <div id ="menu_row">
+                <div id="menu_col">
+                    <h2>Breakfast</h2>
+                    <div class ="box">
+                        <div id="image">
+                        <img src="C:\Users\priya\Downloads\images\images\breakfast1.jpg">
+                         </div>
+                         <div>
+                            <h3>Eggs</h3>
+                            <h4>10$</h4>
+                         </div>
+                    </div>
+                    <div class ="box">
+                        <div id="image">
+                        <img src="C:\Users\priya\Downloads\images\images\dinner2.jpg">
+                         </div>
+                         <div>
+                            <h3>Parota</h3>
+                            <h4>10$</h4>
+                         </div>
+                    </div>
+                    <div class ="box">
+                        <div id="image">
+                        <img src="C:\Users\priya\Downloads\images\images\breakfast3.jpg">
+                         </div>
+                         <div>
+                            <h3>Chapatti</h3>
+                            <h4>5$</h4>
+                         </div>
+                        </div>
+            </div>
+            <div id="menu_col">
+                <h2>Lunch</h2>
+                <div class ="box">
+                    <div id="image">
+                    <img src="C:\Users\priya\Downloads\images\images\lunch1.jpg">
+                     </div>
+                     <div>
+                        <h3>Briyani</h3>
+                        <h4>10$</h4>
+                     </div>
+                </div>
+                <div class ="box">
+                    <div id="image">
+                    <img src="C:\Users\priya\Downloads\images\images\lunch2.jpg">
+                     </div>
+                     <div>
+                        <h3>Fish</h3>
+                        <h4>10$</h4>
+                     </div>
+                </div>
+                <div class ="box">
+                    <div id="image">
+                    <img src="C:\Users\priya\Downloads\images\images\lunch3.jpg">
+                     </div>
+                     <div>
+                        <h3>Meals</h3>
+                        <h4>10$</h4>
+                     </div>
+                </div>
+        </div>
+        <div id="menu_col">
+            <h2>Dinner</h2>
+            <div class ="box">
+                <div id="image">
+                <img src="C:\Users\priya\Downloads\images\images\dinner1.jpg">
+                 </div>
+                 <div>
+                    <h3>Tasty Dish 01</h3>
+                    <h4>10$</h4>
+                 </div>
+            </div>
+            <div class ="box">
+                <div id="image">
+                <img src="C:\Users\priya\Downloads\images\images\dinner2.jpg">
+                 </div>
+                 <div>
+                    <h3>Tasty Dish 01</h3>
+                    <h4>10$</h4>
+                 </div>
+            </div>
+            <div class ="box">
+                <div id="image">
+                <img src="C:\Users\priya\Downloads\images\images\dinner3.jpg">
+                 </div>
+                 <div>
+                    <h3>Tasty Dish 01</h3>
+                    <h4>10$</h4>
+                 </div>
+            </div>
+        </div>
+            </div>
+            <div id="chef">
+            <h1 id ="section">Chef</h1>
+            <div id="chef_row">
+                <div class="chef_col">
+                    <div id="img">
+                     <img src="C:\Users\priya\Downloads\images\images\1.png">
+                    </div>
+                <div>
+                <h4>RAJ</h4>
+            </div>
+             </div>
+             <div class="chef_col">
+                <div id="img">
+                 <img src="C:\Users\priya\Downloads\images\images\3.png">
+                </div>
+                 <div>
+                  <h4>RANVER</h4>
+                </div>
+             </div>
+         <div class="chef_col">
+            <div id="img">
+             <img src="C:\Users\priya\Downloads\images\images\2.png">
+            </div>
+        <div>
+        <h4>AKBAR</h4>
+    </div>
+             </div>
+     <div class="chef_col">
+        <div id="img">
+         <img src="C:\Users\priya\Downloads\images\images\4.png">
+        </div>
+    <div>
+    <h4>MUDDSAR</h4>
+    </div>
+             </div>
+               
+        </div>   
+        </div>     
+            <div id="about">
+            <h1 id="section"></h1>
+            <div id="row_about">
+                <div class="about_col">
+                    <h1>About Us</h1>
+                    <p>Whether you are craving a veggie burger or a chicken tikka, has something for everyone. We serve a variety of delicious veg and non veg dishes, made with fresh and local ingredients. Enjoy our cozy and friendly atmosphere, and dont miss our daily specials. Visit us or call us to make a reservation.
+                        we believe that food is more than just fuel. It’s a way of celebrating life, culture, and diversity. That’s why we offer a mouthwatering selection of veg and non veg cuisine, from salads and sandwiches to curries and kebabs. Come and experience our warm and welcoming service, and our modern and elegant decor.
+                    </p>
+                </div>
+                <div class="about_col">
+                    <div id="about_img">
+                        <img src="https://th.bing.com/th/id/R.dc8ab556a5d38ee1b137683abeaeeda2?rik=0BRx0tjrTa%2fdLQ&riu=http%3a%2f%2fwww.freepngclipart.com%2fdownload%2fchef%2f59146-chef-cartoon-free-download-png-hd.png&ehk=oBZebtmHfdVgZGElvsb9yE8Nt7uouaeY0YfFoYNza2E%3d&risl=&pid=ImgRaw&r=0">
+                    </div>
+                </div>
+            </div>
+        </div>
+             <div id="contact">
+            <h1 id="section">Contact</h1>
+            <div id="contact_row">
+                <div class="contact_col">
+                    <div>
+                        <p>
+                            <i class="fa-solid fa-location-dot"></i>
+                            Kumarswamy Layout,Bangalore,Karnataka
+                        </p>
+                        <p>
+                            <a href="#">
+                                <i class="fa-solid fa-envelope"></i>
+                                madhuresturant@gmail.com
+                            </a>
+                        </p>
+                        <p>
+                            <i class="fa-solid fa-phone"></i>
+                            +91935321338
+                        </p>
+                        <h3>Follow Us</h3>
+                        <p id="social"><a href="#"><i class="fa-brands fa-instagram"></i></a>
+                            <a href="#"><i class="fa-brands fa-facebook"></i></a>
+                            <a href="#"><i class="fa-brands fa-twitter"></i></a>
+                            <a href="#"><i class="fa-brands fa-youtube"></i></a>
+                            </p>
+                    </div>
+                  </div>
+                <div class="contact_col">
+                    <form><h2>Get in touch</h2>
+                        <input type="text" placeholder="Name">
+                        <input type="email" placeholder="Email-id">
+                        <input type="text" placeholder="Subject">
+                         <textarea rows="6" placeholder="Type message"></textarea>
+                         <button>Send Message</button></form>
+             </div>
+         </div>
+        </div>
+    </body>
+</html>
